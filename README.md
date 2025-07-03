@@ -11,25 +11,25 @@ MacEasySymbol 是一个为使用原生中文输入法用户设计的 macOS 应�
 ### 添加 tap
 
 ```bash
-brew tap vaspike/maceasysmbol
+brew tap vaspike/maceasysymbol
 ```
 
 ### 安装应用
 
 ```bash
-brew install --cask maceasysmbol
+brew install --cask maceasysymbol
 ```
 
 ### 一键安装（推荐）
 
 ```bash
-brew install --cask vaspike/maceasysmbol/maceasysmbol
+brew install --cask vaspike/maceasysmbol/maceasysymbol
 ```
 
 ## 卸载
 
 ```bash
-brew uninstall --cask maceasysmbol
+brew uninstall --cask maceasysymbol
 ```
 
 ## 功能特性
