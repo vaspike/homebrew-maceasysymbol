@@ -17,13 +17,13 @@ brew tap vaspike/maceasysymbol
 ### 安装应用
 
 ```bash
-brew install --cask maceasysymbol
+brew install --cask MacEasySymbol
 ```
 
 ### 一键安装（推荐）
 
 ```bash
-brew install --cask vaspike/maceasysmbol/maceasysymbol
+brew install --cask vaspike/maceasysymbol/maceasysymbol
 ```
 
 ## 卸载
