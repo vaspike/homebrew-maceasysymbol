@@ -51,7 +51,7 @@ print_info "开始更新 MacEasySymbol Homebrew Formula 到版本 v$VERSION"
 REPO_OWNER="vaspike"
 REPO_NAME="MacEasySymbol"
 DMG_FILE="MacEasySymbol-signed-${VERSION}.dmg"
-DMG_URL="https://github.com/${REPO_OWNER}/${REPO_NAME}/releases/download/v${VERSION}/${DMG_FILE}"
+DMG_URL="https://github.com/${REPO_OWNER}/${REPO_NAME}/releases/download/${VERSION}/${DMG_FILE}"
 FORMULA_FILE="Formula/maceasysmbol.rb"
 TEMP_DIR="temp_update"
 
