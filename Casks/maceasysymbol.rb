@@ -1,7 +1,7 @@
 cask "maceasysymbol" do
   desc "智能转换中文符号为英文符号的 macOS 应用"
   homepage "https://github.com/vaspike/MacEasySymbol"
-  version "1.1.2"
+  version "2.1.2"
   url "https://github.com/vaspike/MacEasySymbol/releases/download/#{version}/MacEasySymbol-signed-#{version}.dmg"
   sha256 "56a84317eb924b43aea906f735568ddc5f3d668ad8cb2dfe2ed48535214e5ab8"
 
