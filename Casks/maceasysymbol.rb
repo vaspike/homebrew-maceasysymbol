@@ -1,9 +1,9 @@
 cask "maceasysymbol" do
   desc "一个为使用中文输入的用户设计的 macOS 应用，能够让你在中文输入时使用英文标点"
   homepage "https://github.com/vaspike/MacEasySymbol"
-  version "2.1.2"
+  version "2.3.1"
   url "https://github.com/vaspike/MacEasySymbol/releases/download/#{version}/MacEasySymbol-signed-#{version}.dmg"
-  sha256 "294792c1a14569759c852ce840f28b6b7a0c172d1cbd7656664080d75bb84c8d"
+  sha256 "aa9a59e1f1d5f08428aa5144849ba74ca3a116d256f1bb29de81ff594b5183d0"
 
   depends_on macos: ">= :big_sur"
 
@@ -23,6 +23,7 @@ cask "maceasysymbol" do
     • 全局快捷键支持（默认 ⌘⌥S）
     • 状态栏控制界面
     • 支持 20+ 种符号转换
+    • (新功能) 白名单应用自定义
 
     更多信息请访问：https://github.com/vaspike/MacEasySymbol
   EOS
