@@ -2,7 +2,7 @@ cask "maceasysymbol" do
   desc "一个为使用中文输入的用户设计的 macOS 应用，能够让你在中文输入时使用英文标点"
   homepage "https://github.com/vaspike/MacEasySymbol"
   version "2.3.1"
-  url "https://github.com/vaspike/MacEasySymbol/releases/download/#{version}/MacEasySymbol-signed-#{version}.dmg"
+  url "https://github.com/vaspike/MacEasySymbol/releases/download/#{version}/MacEasySymbol-#{version}.dmg"
   sha256 "aa9a59e1f1d5f08428aa5144849ba74ca3a116d256f1bb29de81ff594b5183d0"
 
   depends_on macos: ">= :big_sur"
