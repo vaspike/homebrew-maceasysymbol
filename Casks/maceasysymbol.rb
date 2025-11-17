@@ -3,7 +3,7 @@ cask "maceasysymbol" do
   homepage "https://github.com/vaspike/MacEasySymbol"
   version "2.4.1"
   url "https://github.com/vaspike/MacEasySymbol/releases/download/#{version}/MacEasySymbol-#{version}.dmg"
-  sha256 "03e1e39b170a273559ef667fe220c25e0f7f26e393a51145c8b5e2c26d6d9781"
+  sha256 "25bd3869481b44a61287977fa4bca4def30ecbfd0273978f7ac0c46a28b52b22"
 
   depends_on macos: ">= :big_sur"
 
