@@ -9,7 +9,7 @@ cask "maceasysymbol" do
   desc "中文输入时使用英文标点"
   homepage "https://github.com/vaspike/MacEasySymbol"
 
-  depends_on macos: ">= :monterey"
+  depends_on macos: :monterey
 
   app "MacEasySymbol.app"
 
